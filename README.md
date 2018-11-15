@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 14, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Devonte Aird)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project showcases the DOM in HTML and the different functions that JavaScript can utilize in order to make a page more dynamic instead of static.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://daa16k.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned that the DOM (API) has predefined methods, properties, and its purpose is to access the tree.)
+2. (I learned that one way to add behavior to a page is to select a node, add an event listener, and identify the event handler.)
+3. (I learned that the DOM is contained in the Browser Object Model, which shows the content of a document within a browser.)
 
